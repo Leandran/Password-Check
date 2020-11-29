@@ -7,7 +7,6 @@
 # Needs to contain lowercase letters (lowCase) 
 # Needs to contain numbers (haveNum) 
  
-#Conditions to be met:
 
 # Declare Boolean variables for each one of these characteristics.  
 # You will find the name of the variable next to the condition above. They                            
